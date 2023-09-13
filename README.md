@@ -8,5 +8,6 @@ Portfolio using HTML and CSS
 ## [Reference]()
 
 - [YouTube](https://youtu.be/jfV6IYW64JM) - Portfolio Website HTML and CSS
+- [boxicons](https://boxicons.com/) - Simple Open Source icons carefully crafted for designers & developers
 - [w3schools](https://www.w3schools.com/html/default.asp) - HTML is the standard markup language for Web pages.
 - [javatpoint](https://www.javatpoint.com/html-tutorial) - another HTML & CSS related course materials
