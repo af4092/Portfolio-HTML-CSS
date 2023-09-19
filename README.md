@@ -12,34 +12,19 @@ Portfolio using HTML and CSS
   - body ~ contains the content of the webpage.
   - header Section contains a logo and a navigation bar with links.
   - home Section contains two main elements: an image and content.
-  - Image (<img>) and content (heading, subheading, and paragraph) for a personal introduction.
+  - Image (img) and content (heading, subheading, and paragraph) for a personal introduction.
   - Social media icons and a "Download CV" button.
 
 - `style.css` CSS Resets and Global Styles:
   -  Resets default margins, padding, and box-sizing for all elements.
-Sets the font family to 'Poppins' for the entire document.
-Header Styles:
-
-Styles for the header section, including positioning, background, and styling of the logo and navigation links.
-Home Section Styles:
-
-Styling for the home section, including background gradient, layout, and alignment of the image and content.
-Home Image Styles:
-
-Styling for the circular image.
-Home Content Styles:
-
-Styling for the content within the home section, including typography and layout.
-Animation Styles:
-
-An animation (animateText) for a text background gradient effect.
-Social Icons Styles:
-
-Styles for the social media icons.
-Button Styles:
-
-Styles for the "Download CV" button.
-
+  -  Sets the font family to 'Poppins' for the entire document.
+  -  Header Styles ~ styles for the header section, including positioning, background, and styling of the logo and navigation links.
+  -  Home Section Styles ~ styling for the home section, including background gradient, layout, and alignment of the image and content.
+  -  Home Image Styles ~ styling for the circular image.
+  -  Home Content Styles ~ styling for the content within the home section, including typography and layout.
+  -  Animation Styles ~ an animation (animateText) for a text background gradient effect.
+  -  Social Icons Styles ~ styles for the social media icons.
+  -  Button Styles ~ styles for the "Download CV" button.
 
 <p align="center">
   <img src="https://github.com/af4092/Portfolio-HTML-CSS/assets/24220136/b728773b-b1d5-4500-a175-39adf6580b44" alt="Image">
