@@ -1,10 +1,9 @@
 # Portfolio-HTML-CSS
 Portfolio using HTML and CSS
 
-The provided code is an example of an HTML file (index.html) and its associated CSS file (style.css). Let's break down the code and understand what each section does.
+- The `HTML` file provides the structure and content of the webpage, while the `CSS` file (style.css) provides the visual styles and layout for the elements. The webpage includes a header with navigation links and a prominent home section introducing the page owner with an image, heading, subheading, and social media links.
 
-index.html:
-HTML Structure:
+- `index.html` HTML Structure:
 
 <!DOCTYPE html>: Declares the HTML version.
 <html lang="en">: The root HTML element with the language set to English.
@@ -51,7 +50,7 @@ Styles for the social media icons.
 Button Styles:
 
 Styles for the "Download CV" button.
-Overall, the HTML file provides the structure and content of the webpage, while the CSS file (style.css) provides the visual styles and layout for the elements. The webpage includes a header with navigation links and a prominent home section introducing the page owner with an image, heading, subheading, and social media links.
+
 
 <p align="center">
   <img src="https://github.com/af4092/Portfolio-HTML-CSS/assets/24220136/b728773b-b1d5-4500-a175-39adf6580b44" alt="Image">
