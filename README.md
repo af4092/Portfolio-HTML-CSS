@@ -4,21 +4,14 @@ Portfolio using HTML and CSS
 - The `HTML` file provides the structure and content of the webpage, while the `CSS` file (style.css) provides the visual styles and layout for the elements. The webpage includes a header with navigation links and a prominent home section introducing the page owner with an image, heading, subheading, and social media links.
 
 - `index.html` HTML Structure:
-  - <!DOCTYPE html>: Declares the HTML version.
-  - <html lang="en">: The root HTML element with the language set to English.
-  - <head>: Contains meta information and links to external resources.
-Meta tags for character set, compatibility, and viewport settings.
-Title of the webpage.
-Links to an external CSS file (style.css) and a font stylesheet.
-Body Section:
-
-<body>: Contains the content of the webpage.
-Header Section:
-
-Contains a logo and a navigation bar with links.
-Home Section:
-
-Contains two main elements: an image and content.
+  - DOCTYPE html ~ declares the HTML version.
+  - html lang= en ~ the root HTML element with the language set to English.
+  - head  ~ contains meta information and links to external resources.
+  - meta tags for character set, compatibility, and viewport settings.
+  - title links to an external CSS file (style.css) and a font stylesheet.
+  - body ~ contains the content of the webpage.
+  - header Section contains a logo and a navigation bar with links.
+  - home Section contains two main elements: an image and content.
 Image (<img>) and content (heading, subheading, and paragraph) for a personal introduction.
 Social media icons and a "Download CV" button.
 style.css:
