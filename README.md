@@ -5,19 +5,18 @@ Portfolio using HTML and CSS
 
 - `index.html` HTML Structure:
   - DOCTYPE html ~ declares the HTML version.
-  - html lang= en ~ the root HTML element with the language set to English.
+  - html lang = en ~ the root HTML element with the language set to English.
   - head  ~ contains meta information and links to external resources.
   - meta tags for character set, compatibility, and viewport settings.
   - title links to an external CSS file (style.css) and a font stylesheet.
   - body ~ contains the content of the webpage.
   - header Section contains a logo and a navigation bar with links.
   - home Section contains two main elements: an image and content.
-Image (<img>) and content (heading, subheading, and paragraph) for a personal introduction.
-Social media icons and a "Download CV" button.
-style.css:
-CSS Resets and Global Styles:
+  - Image (<img>) and content (heading, subheading, and paragraph) for a personal introduction.
+  - Social media icons and a "Download CV" button.
 
-Resets default margins, padding, and box-sizing for all elements.
+- `style.css` CSS Resets and Global Styles:
+  -  Resets default margins, padding, and box-sizing for all elements.
 Sets the font family to 'Poppins' for the entire document.
 Header Styles:
 
