@@ -26,8 +26,6 @@ Portfolio using HTML and CSS
   -  Social Icons Styles ~ styles for the social media icons.
   -  Button Styles ~ styles for the "Download CV" button.
 
-- Site is available on GitHub Pages: https://afa-farkhod.github.io/cv
-
 <p align="center">
   <img src="https://github.com/af4092/Portfolio-HTML-CSS/assets/24220136/b728773b-b1d5-4500-a175-39adf6580b44" alt="Image">
 </p>
